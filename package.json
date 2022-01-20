@@ -1,0 +1,19 @@
+{
+  "name": "githubapptest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tterbOrgTest/githubapptest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tterbOrgTest/githubapptest/issues"
+  },
+  "homepage": "https://github.com/tterbOrgTest/githubapptest#readme"
+}
